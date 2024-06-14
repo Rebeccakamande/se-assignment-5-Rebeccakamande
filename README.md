@@ -166,11 +166,11 @@ Answer the following questions based on your understanding of the installation a
     open Git bash and clone the repositoty from your Github account.
     Use "code . " to open the repository in VS code.
 
-    2. Making Commits:
+    2. Making Commits:![alt text](image-11.png)
 
     Finally, commit your staged changes with a clear message using the blue "Commit" button in the source control view or by running the "Git: Commit" command from the Command Palette.
 
-    3. Pushing Changes to GitHub (Remote Repository):
+    3. Pushing Changes to GitHub (Remote Repository):![alt text](image-12.png)git
     The first time you push, you might need to configure your Git credentials within VS Code for authentication.
     Once configured, VS Code will establish a connection with GitHub and push your local commits to the remote repository.
 
